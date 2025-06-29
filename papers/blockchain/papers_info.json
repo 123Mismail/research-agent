@@ -1,0 +1,12 @@
+{
+  "2304.09965v1": {
+    "title": "Vulnerability of Finitely-long Blockchains in Securing Data",
+    "authors": [
+      "Yiming Jiang",
+      "Jiangfan Zhang"
+    ],
+    "summary": "Recently, blockchain has been applied in various fields to secure data\nexchanges and storage in decentralized systems. In a blockchain application\nwhere the task of the application which makes use of the data stored in a\nblockchain has to be accomplished by a time instant, the employed blockchain is\nessentially finitely-long. In this paper, we consider a general finitely-long\nblockchain model which is generalized from most existing works on finitely-long\nblockchain applications, and take the first step towards characterizing the\nvulnerability of finitely-long blockchains in securing data against\ndouble-spending attacks. For the first time, we develop a general closed-form\nexpression for the probability of success in launching a double-spending attack\non a finitely-long blockchain. This probability essentially characterizes the\nvulnerability of finitely-long blockchains. Then, we prove that the probability\nof success in launching a double-spending attack on a finitely-long blockchain\nis no greater than that on an infinitely-long blockchain, which implies that\nfinitely-long blockchains are less vulnerable to double-spending attacks than\ninfinitely-long blockchains. Moreover, we show that unlike infinitely-long\nblockchains which can be surely paralyzed by a 51% attack, finitely-long\nblockchains are more resistant to 51% attacks.",
+    "pdf_url": "http://arxiv.org/pdf/2304.09965v1",
+    "published": "2023-04-19"
+  }
+}

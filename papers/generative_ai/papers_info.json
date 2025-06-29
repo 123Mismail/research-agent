@@ -1,0 +1,13 @@
+{
+  "2502.11312v1": {
+    "title": "AI Generations: From AI 1.0 to AI 4.0",
+    "authors": [
+      "Jiahao Wu",
+      "Hengxu You",
+      "Jing Du"
+    ],
+    "summary": "This paper proposes that Artificial Intelligence (AI) progresses through\nseveral overlapping generations: AI 1.0 (Information AI), AI 2.0 (Agentic AI),\nAI 3.0 (Physical AI), and now a speculative AI 4.0 (Conscious AI). Each of\nthese AI generations is driven by shifting priorities among algorithms,\ncomputing power, and data. AI 1.0 ushered in breakthroughs in pattern\nrecognition and information processing, fueling advances in computer vision,\nnatural language processing, and recommendation systems. AI 2.0 built on these\nfoundations through real-time decision-making in digital environments,\nleveraging reinforcement learning and adaptive planning for agentic AI\napplications. AI 3.0 extended intelligence into physical contexts, integrating\nrobotics, autonomous vehicles, and sensor-fused control systems to act in\nuncertain real-world settings. Building on these developments, AI 4.0 puts\nforward the bold vision of self-directed AI capable of setting its own goals,\norchestrating complex training regimens, and possibly exhibiting elements of\nmachine consciousness. This paper traces the historical foundations of AI\nacross roughly seventy years, mapping how changes in technological bottlenecks\nfrom algorithmic innovation to high-performance computing to specialized data,\nhave spurred each generational leap. It further highlights the ongoing\nsynergies among AI 1.0, 2.0, 3.0, and 4.0, and explores the profound ethical,\nregulatory, and philosophical challenges that arise when artificial systems\napproach (or aspire to) human-like autonomy. Ultimately, understanding these\nevolutions and their interdependencies is pivotal for guiding future research,\ncrafting responsible governance, and ensuring that AI transformative potential\nbenefits society as a whole.",
+    "pdf_url": "http://arxiv.org/pdf/2502.11312v1",
+    "published": "2025-02-16"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "1905.07844v1": {
+    "title": "Implications of Computer Vision Driven Assistive Technologies Towards Individuals with Visual Impairment",
+    "authors": [
+      "Linda Wang",
+      "Alexander Wong"
+    ],
+    "summary": "Computer vision based technology is becoming ubiquitous in society. One\napplication area that has seen an increase in computer vision is assistive\ntechnologies, specifically for those with visual impairment. Research has shown\nthe ability of computer vision models to achieve tasks such provide scene\ncaptions, detect objects and recognize faces. Although assisting individuals\nwith visual impairment with these tasks increases their independence and\nautonomy, concerns over bias, privacy and potential usefulness arise. This\npaper addresses the positive and negative implications computer vision based\nassistive technologies have on individuals with visual impairment, as well as\nconsiderations for computer vision researchers and developers in order to\nmitigate the amount of negative implications.",
+    "pdf_url": "http://arxiv.org/pdf/1905.07844v1",
+    "published": "2019-05-20"
+  }
+}

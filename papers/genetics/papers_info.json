@@ -1,0 +1,11 @@
+{
+  "1209.4847v1": {
+    "title": "The new classes of the genetic algorithms are defined by nonassociative groupoids",
+    "authors": [
+      "S. Sverchkov"
+    ],
+    "summary": "The genetic product of the groupoids, originating in the theory of DNA\nrecombination, is introduced. It permits a natural generalization of the\nclassical genetic algorithm. The full characterization of all three-element\ngenetic groupoids gives an approach to construct the new classes of genetic\nalgorithms. In the conclusion, we formulate some open problems in the theory of\nthe genetic groupoids.",
+    "pdf_url": "http://arxiv.org/pdf/1209.4847v1",
+    "published": "2012-09-21"
+  }
+}
